@@ -1,0 +1,2 @@
+# Day47_AjaxCallbackAjax_andPromise
+AjaxCallback_Practice
